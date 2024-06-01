@@ -49,4 +49,7 @@
 #include "Particle3D/src/Particle3D/ParticleSystem3D.h"
 #include "Particle3D/src/Particle3D/PU/PUParticleSystem3D.h"
 
+// Scene grapgh inspector
+#include "Inspector/src/Inspector/Inspector.h"
+
 #endif /* __AXMOL_EXT_H__ */
